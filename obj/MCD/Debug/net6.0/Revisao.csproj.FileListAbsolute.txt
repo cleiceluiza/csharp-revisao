@@ -1,0 +1,15 @@
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\obj\MCD\Debug\net6.0\Revisao.csproj.AssemblyReference.cache
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\obj\MCD\Debug\net6.0\Revisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\obj\MCD\Debug\net6.0\Revisao.AssemblyInfoInputs.cache
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\obj\MCD\Debug\net6.0\Revisao.AssemblyInfo.cs
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\obj\MCD\Debug\net6.0\Revisao.csproj.CoreCompileInputs.cache
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\bin\MCD\Debug\net6.0\Revisao.exe
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\bin\MCD\Debug\net6.0\Revisao.deps.json
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\bin\MCD\Debug\net6.0\Revisao.runtimeconfig.json
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\bin\MCD\Debug\net6.0\Revisao.dll
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\bin\MCD\Debug\net6.0\ref\Revisao.dll
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\bin\MCD\Debug\net6.0\Revisao.pdb
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\obj\MCD\Debug\net6.0\Revisao.dll
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\obj\MCD\Debug\net6.0\ref\Revisao.dll
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\obj\MCD\Debug\net6.0\Revisao.pdb
+C:\Users\Cleice\OneDrive\DEVELOPMENT\DIO\csharp\csharp-exemples\Revisao\obj\MCD\Debug\net6.0\Revisao.genruntimeconfig.cache
